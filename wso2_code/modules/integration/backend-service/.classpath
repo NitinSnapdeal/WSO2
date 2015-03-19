@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**/*.java" including="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="var" path="M2_REPO/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/ws/rs/javax.ws.rs-api/2.0-m10/javax.ws.rs-api-2.0-m10.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/code/gson/gson/2.2/gson-2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.9.12/jackson-mapper-asl-1.9.12.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.12/jackson-core-asl-1.9.12.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-jaxrs/1.9.12/jackson-jaxrs-1.9.12.jar"/>
+	<classpathentry kind="var" path="M2_REPO/cglib/cglib-nodep/2.2/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/3.2.0.RELEASE/spring-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1/commons-logging-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.13/log4j-1.2.13.jar"/>
+	<classpathentry kind="var" path="M2_REPO/logkit/logkit/1.0.1/logkit-1.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-context/3.2.0.RELEASE/spring-context-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-aop/3.2.0.RELEASE/spring-aop-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-beans/3.2.0.RELEASE/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-expression/3.2.0.RELEASE/spring-expression-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-web/3.2.0.RELEASE/spring-web-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/tomcat/embed/tomcat-embed-core/7.0.34/tomcat-embed-core-7.0.34.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/tomcat/embed/tomcat-embed-logging-juli/7.0.34/tomcat-embed-logging-juli-7.0.34.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/ws/wso2/spring.framework/3.1.0.wso2v1/spring.framework-3.1.0.wso2v1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/ws/spring-xml/2.0.3.RELEASE/spring-xml-2.0.3.RELEASE.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/cxf/cxf-rt-frontend-jaxrs/2.7.2/cxf-rt-frontend-jaxrs-2.7.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/cxf/cxf-api/2.7.2/cxf-api-2.7.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/woodstox/woodstox-core-asl/4.1.4/woodstox-core-asl-4.1.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/woodstox/stax2-api/3.1.1/stax2-api-3.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/geronimo/specs/geronimo-javamail_1.4_spec/1.7.1/geronimo-javamail_1.4_spec-1.7.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/wsdl4j/wsdl4j/1.6.2/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/cxf/cxf-rt-core/2.7.2/cxf-rt-core-2.7.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-impl/2.2.6/jaxb-impl-2.2.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/cxf/cxf-rt-bindings-xml/2.7.2/cxf-rt-bindings-xml-2.7.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/cxf/cxf-rt-transports-http/2.7.2/cxf-rt-transports-http-2.7.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-lgpl/1.9.12/jackson-core-lgpl-1.9.12.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-mapper-lgpl/1.9.12/jackson-mapper-lgpl-1.9.12.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/cxf/cxf-rt-rs-security-cors/2.7.2/cxf-rt-rs-security-cors-2.7.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/bouncycastle/bcprov-jdk15/132/bcprov-jdk15-132.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
